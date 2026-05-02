@@ -1,4 +1,14 @@
+# 안녕하세요!
 
+주로 Exiled Framework를 이용한 다양한 실험과 프로젝트를 만들고 있어요.
+
+현재는 LabAPI를 포함하여 Java와 C++를 공부하고 있으며, 이를 이용하여 다양한 실험을 기획하고 있어요.
+
+---
+# Hello!
+I am primarily conducting various experiments and projects using the Exiled Framework.
+
+Currently, I am studying Java and C++, including LabAPI, and planning various experiments using them.
 <!--
 **babycatoffical/babycatoffical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
